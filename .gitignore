@@ -7,7 +7,7 @@
 *.so
 *.sav
 *.xlsx
-#*/output_model/*
+*/output_model/*
 */.ipynb_checkpoints/*
 */node_modules/*
 */.serverless/*
